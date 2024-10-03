@@ -1,0 +1,2 @@
+Prefix plugins/GCMAPlot/example/
+Plugin GCMAPlot inputfile parameters.txt outputfile gcmaplot.pdf

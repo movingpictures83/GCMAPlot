@@ -1,0 +1,6 @@
+covar	uCovar.csv
+Astd	rpkmplot.A.std.rds
+Acqn	rpkmplot.A.cqn.rds
+Mstd	rpkmplot.M.std.rds
+Mcqn	rpkmplot.M.cqn.rds
+whGenes	rpkmplot.whGenes.rds
