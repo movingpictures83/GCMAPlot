@@ -50,5 +50,6 @@ plot(A.cqn[whHigh], M.cqn[whHigh], cex = 0.2, pch = 16, xlab = "A",
      ylim = c(-4,4), xlim = c(0,12), col = "red")
 points(A.cqn[whLow], M.cqn[whLow], cex = 0.2, pch = 16, col = "blue")
 
-
+#print(str(gccontent))
+write.csv(gccontent, paste(outputfile, "csv", sep="."))
 }
